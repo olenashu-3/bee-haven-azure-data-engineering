@@ -17,3 +17,6 @@
 
 # Logs
 *.log
+
+# Architecture draft
+3. docs/architecture.md
